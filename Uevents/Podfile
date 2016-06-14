@@ -1,0 +1,31 @@
+# Uncomment this line to define a global platform for your project
+platform :ios, '9.0'
+# Uncomment this line if you're using Swift
+use_frameworks!
+
+def shared_pods
+    pod 'CalendarView','~> 1.1'
+    
+    pod 'Firebase/Core'
+    pod 'Firebase/Database'
+    pod 'Firebase/Auth'
+    
+    pod 'GoogleSignIn'
+    pod 'JSQMessagesViewController'
+    pod 'SwiftyJSON', '~> 2.3.2'
+    pod 'Alamofire', '~> 3.3.1'
+    pod 'FLAnimatedImage', '~> 1.0'
+end
+
+target 'Uevents' do
+    shared_pods
+end
+
+target 'UeventsTests' do
+    shared_pods
+end
+
+target 'UeventsUITests' do
+    shared_pods
+end
+

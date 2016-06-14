@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>TodayUevents.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Uevents.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>UeventsWidget.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>017524B81CF1EB6C00487DFE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BA141A741CEEF9A600EB5618</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BA1653DD1CB7E1A50066865F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BA6775831CF006C50076BC0E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BA7E75101CBA16780014EE4C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BA7E751E1CBA1ACE0014EE4C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BAF6DBBE1CEF0DB8000CAE32</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

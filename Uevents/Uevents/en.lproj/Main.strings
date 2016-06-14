@@ -1,0 +1,129 @@
+
+/* Class = "UIButton"; normalTitle = "More details"; ObjectID = "22C-n3-4d4"; */
+"22C-n3-4d4.normalTitle" = "More details";
+
+/* Class = "UILabel"; text = "Free Cinema : Taken 1"; ObjectID = "3JA-EW-9vu"; */
+"3JA-EW-9vu.text" = "Free Cinema : Taken 1";
+
+/* Class = "UILabel"; text = "Desciption"; ObjectID = "3YI-3u-KW5"; */
+"3YI-3u-KW5.text" = "Desciption";
+
+/* Class = "UISegmentedControl"; 5ar-hr-Nj0.segmentTitles[0] = "Past"; ObjectID = "5ar-hr-Nj0"; */
+"5ar-hr-Nj0.segmentTitles[0]" = "Past";
+
+/* Class = "UISegmentedControl"; 5ar-hr-Nj0.segmentTitles[1] = "Upcoming"; ObjectID = "5ar-hr-Nj0"; */
+"5ar-hr-Nj0.segmentTitles[1]" = "Upcoming";
+
+/* Class = "UILabel"; text = "Welcome to Uevents"; ObjectID = "66s-iM-m4T"; */
+"66s-iM-m4T.text" = "Welcome to Uevents";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "8Q6-Vu-XaA"; */
+"8Q6-Vu-XaA.title" = "Settings";
+
+/* Class = "UILabel"; text = "Time: 12:30 pm - 3:00 pm (UTC +10:00)"; ObjectID = "9Jl-EJ-Vo3"; */
+"9Jl-EJ-Vo3.text" = "Time: 12:30 pm - 3:00 pm (UTC +10:00)";
+
+/* Class = "UILabel"; text = "Date : 20 June 2014"; ObjectID = "CPz-Gb-2Ej"; */
+"CPz-Gb-2Ej.text" = "Date : 20 June 2014";
+
+/* Class = "UILabel"; text = "Email : "; ObjectID = "FUy-7Y-CLU"; */
+"FUy-7Y-CLU.text" = "Email : ";
+
+/* Class = "UILabel"; text = "RMIT University, Melbourne"; ObjectID = "GH3-0O-I3M"; */
+"GH3-0O-I3M.text" = "RMIT University, Melbourne";
+
+/* Class = "UILabel"; text = "User Name : "; ObjectID = "GTV-hA-mZK"; */
+"GTV-hA-mZK.text" = "User Name : ";
+
+/* Class = "UIButton"; normalTitle = "More details"; ObjectID = "HmA-nO-wQ3"; */
+"HmA-nO-wQ3.normalTitle" = "More details";
+
+/* Class = "UILabel"; text = "Thong Nguyen"; ObjectID = "MoT-6e-paY"; */
+"MoT-6e-paY.text" = "Thong Nguyen";
+
+/* Class = "UITabBarController"; title = "tabBar"; ObjectID = "NY8-pK-oKC"; */
+"NY8-pK-oKC.title" = "tabBar";
+
+/* Class = "UILabel"; text = "Events"; ObjectID = "Nqk-la-YTZ"; */
+"Nqk-la-YTZ.text" = "Events";
+
+/* Class = "UIViewController"; title = "Social"; ObjectID = "OlP-pV-bAn"; */
+"OlP-pV-bAn.title" = "Social";
+
+/* Class = "UILabel"; text = "Allow Notifications "; ObjectID = "PqJ-AC-vEu"; */
+"PqJ-AC-vEu.text" = "Allow Notifications ";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "QDH-Zz-cdO"; */
+"QDH-Zz-cdO.text" = "Date";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Swf-rE-NVh"; */
+"Swf-rE-NVh.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Log out"; ObjectID = "XqB-Up-gir"; */
+"XqB-Up-gir.normalTitle" = "Log out";
+
+/* Class = "UILabel"; text = "Calendar"; ObjectID = "Xy4-l5-tcl"; */
+"Xy4-l5-tcl.text" = "Calendar";
+
+/* Class = "UIViewController"; title = "Login"; ObjectID = "YOf-du-jtR"; */
+"YOf-du-jtR.title" = "Login";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "ZGy-Sa-UY7"; */
+"ZGy-Sa-UY7.text" = "Date";
+
+/* Class = "UILabel"; text = "Venue: Kaleide Theatre (Building 8, Level 2), RMIT City campus"; ObjectID = "aXF-SS-QKf"; */
+"aXF-SS-QKf.text" = "Venue: Kaleide Theatre (Building 8, Level 2), RMIT City campus";
+
+/* Class = "UITabBarItem"; title = "Events"; ObjectID = "b5L-na-vsK"; */
+"b5L-na-vsK.title" = "Events";
+
+/* Class = "UISearchBar"; placeholder = "Search for events"; ObjectID = "cCK-si-A2S"; */
+"cCK-si-A2S.placeholder" = "Search for events";
+
+/* Class = "UIViewController"; title = "Calendar"; ObjectID = "flt-L3-egh"; */
+"flt-L3-egh.title" = "Calendar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gPt-HF-eTs"; */
+"gPt-HF-eTs.text" = "Label";
+
+/* Class = "UIViewController"; title = "Settings"; ObjectID = "gcf-eO-gGU"; */
+"gcf-eO-gGU.title" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "Deactivate Account"; ObjectID = "jGf-FJ-nsB"; */
+"jGf-FJ-nsB.normalTitle" = "Deactivate Account";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lfS-Fl-O12"; */
+"lfS-Fl-O12.text" = "Label";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "mIC-bu-B3c"; */
+"mIC-bu-B3c.text" = "Name";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "mkd-Wl-rnZ"; */
+"mkd-Wl-rnZ.text" = "Time";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "nNS-ru-poN"; */
+"nNS-ru-poN.text" = "Name";
+
+/* Class = "UILabel"; text = "University :"; ObjectID = "ogU-Uf-KC5"; */
+"ogU-Uf-KC5.text" = "University :";
+
+/* Class = "UIButton"; normalTitle = "More details"; ObjectID = "qhh-3y-3Ks"; */
+"qhh-3y-3Ks.normalTitle" = "More details";
+
+/* Class = "UILabel"; text = "s3426571@student.rmit.edu.au"; ObjectID = "r9X-dp-aYe"; */
+"r9X-dp-aYe.text" = "s3426571@student.rmit.edu.au";
+
+/* Class = "UILabel"; text = "Desciption"; ObjectID = "tD0-Mc-7Td"; */
+"tD0-Mc-7Td.text" = "Desciption";
+
+/* Class = "UILabel"; text = "Acccount Details"; ObjectID = "uBM-uX-ex5"; */
+"uBM-uX-ex5.text" = "Acccount Details";
+
+/* Class = "UITabBarItem"; title = "Social"; ObjectID = "wyh-pm-lc9"; */
+"wyh-pm-lc9.title" = "Social";
+
+/* Class = "UITabBarItem"; title = "Calendar"; ObjectID = "xEB-vG-FKx"; */
+"xEB-vG-FKx.title" = "Calendar";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "zGW-yA-tNI"; */
+"zGW-yA-tNI.text" = "Time";
